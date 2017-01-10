@@ -1,7 +1,5 @@
 # go-cmdlog
 
-----
-
 A simple and crude go package for datexla logger, just work in Linux and OSX
 
 ## Getting Started
